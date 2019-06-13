@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrafficLights", "TrafficLights\TrafficLights.csproj", "{DD7CFFE3-6A4C-4E3B-9168-E637B54DD1C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InfernoInfinity", "InfernoInfinity\InfernoInfinity.csproj", "{9A90D152-BEAA-4C91-A63A-E3F951E7C506}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD7CFFE3-6A4C-4E3B-9168-E637B54DD1C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7CFFE3-6A4C-4E3B-9168-E637B54DD1C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7CFFE3-6A4C-4E3B-9168-E637B54DD1C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7CFFE3-6A4C-4E3B-9168-E637B54DD1C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A90D152-BEAA-4C91-A63A-E3F951E7C506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A90D152-BEAA-4C91-A63A-E3F951E7C506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A90D152-BEAA-4C91-A63A-E3F951E7C506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A90D152-BEAA-4C91-A63A-E3F951E7C506}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1156C4E6-80E5-4D1C-9B36-02874274027D}
+	EndGlobalSection
+EndGlobal
